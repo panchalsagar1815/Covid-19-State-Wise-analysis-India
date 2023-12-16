@@ -1,6 +1,6 @@
 # Covid-19-State-Wise-analysis-India
 
-Project Title: COVID-19 State-Wise Analysis - India
+
 
 Project Description:
 The "COVID-19 State-Wise Analysis - India" project is a comprehensive examination of the pandemic's impact across different states and union territories in India. The project incorporates key features including State/UTs, Total Cases, Active Cases, Discharged Cases, Deaths, Active Ratio (%), Discharge Ratio (%), and Death Ratio (%).
