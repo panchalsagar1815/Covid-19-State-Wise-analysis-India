@@ -7,4 +7,5 @@ This analysis aims to provide a nuanced understanding of the varying dynamics of
 
 Utilizing statistical methods and data visualization techniques, the project will highlight the active ratio, discharge ratio, and death ratio, offering insights into the severity and recovery rates in each state and union territory. The findings may contribute to targeted interventions, resource allocation, and public health strategies tailored to the specific needs of each region.
 
+Through this project, we aim to contribute valuable information to the ongoing efforts in managing and mitigating the impact of COVID-19, facilitating a more informed and data-driven approach in the battle against the pandemic at the regional level in India.
 
